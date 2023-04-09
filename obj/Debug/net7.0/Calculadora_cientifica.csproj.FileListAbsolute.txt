@@ -1,0 +1,5 @@
+C:\carpeta_de_programacion\visual_studio\Vs_proyectos_personales\Calculadora_cientifica\obj\Debug\net7.0\Calculadora_cientifica.csproj.AssemblyReference.cache
+C:\carpeta_de_programacion\visual_studio\Vs_proyectos_personales\Calculadora_cientifica\obj\Debug\net7.0\Calculadora_cientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\carpeta_de_programacion\visual_studio\Vs_proyectos_personales\Calculadora_cientifica\obj\Debug\net7.0\Calculadora_cientifica.AssemblyInfoInputs.cache
+C:\carpeta_de_programacion\visual_studio\Vs_proyectos_personales\Calculadora_cientifica\obj\Debug\net7.0\Calculadora_cientifica.AssemblyInfo.cs
+C:\carpeta_de_programacion\visual_studio\Vs_proyectos_personales\Calculadora_cientifica\obj\Debug\net7.0\Calculadora_cientifica.csproj.CoreCompileInputs.cache
